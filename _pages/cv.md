@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * 计算机科学与技术• 本科•东南大学 2020.9-2024.6
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * 学业成绩：GPA 3.56/4.8 
   * 计算机网络 88 
   * 计算机网络专题实践 97
@@ -24,7 +22,6 @@ Education
   * 操作系统专题实践 87
   * 软件工程 88
   * 模式识别 86
-  * 分布计算新技术 90
   * 自动控制原理 94 
   * 高等数学分析 93
   * 程序设计基础及语言 88
@@ -60,7 +57,7 @@ Work experience
 
 
 2. (2023.3-2023.6) SSL VPN 搭建(网络安全实践) [点击进入项目](https://github.com/Frank2001Feng/NetworkSecurityVPN)
->
+>着重研究了 SSL/TLS VPN。完成了 Mini VPN 的设计与通信仿真。
 >
 
 3. (2023.2-2023.5) 虚拟校园网组网项目
